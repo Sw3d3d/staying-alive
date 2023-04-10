@@ -1,5 +1,5 @@
 # staying-alive
-Power Shell script to prevent time-out lock screen.
+Power Shell script to prevent Windows time-out lock screen.
 
 Installing "mouse jigglers" is risky and overkill!
 
