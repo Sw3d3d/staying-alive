@@ -1,10 +1,6 @@
 # staying-alive
-Power Shell script to prevent Windows time-out lock screen.
+Power Shell script to prevent Windows session inactivity time-out lock screen.
 
-Installing "mouse jigglers" is risky and overkill!
+Installing "mouse jiggler" software is risky and likey identified by your organization.
 
-This simple script sends a scroll lock key button press every 'X' seconds.  Done!
-
-Now...get back to work!
-
-:)
+This simple script sends a scroll lock key button press every 'X' seconds to keep session active.
